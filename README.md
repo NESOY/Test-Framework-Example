@@ -1,5 +1,8 @@
 # Test-Framework-Example
 
+## Pattern
+- Collecting Parameter 
+    - <https://rubypatterns.dev/general/collecting_parameters.html>
 
 ## Reference
 - <https://www.youtube.com/watch?v=tdKFZcZSJmg>
